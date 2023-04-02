@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# img
+*.jpg
+
+# model
+*.torchscript
+*.torchscripts
+*.onnx
+*.pt
+*.pth
